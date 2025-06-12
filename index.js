@@ -9,7 +9,7 @@ app.use(cors());
 app.use(express.json());
 
 app.get("/", (req, res) => {
-  res.send("Espresso Emporium server is getting hotter.");
+  res.send("This is the official server of the Espresso Emporium project.");
 });
 
 app.listen(port, () => {
