@@ -4,7 +4,7 @@
 
 Welcome to the server of **Espresso Emporium**, a modern and fully responsive website designed to showcase the premium coffees of a coffee shop. Along with the [client](https://github.com/Sajjad1007/espresso-emporium-client), this project aims to provide an engaging and seamless user experience, ensuring a visually appealing layout with easy accessibility on mobile, tablet and desktop devices.
 
-### [Click here](https://espresso-emporium-server-6xb3fu8f6-sajjad1007s-projects.vercel.app/) to visit the server.
+### [Click here](https://espresso-emporium-server-l75z.onrender.com/) to visit the server.
 
 ## Technologies Used
 
